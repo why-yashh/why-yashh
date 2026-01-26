@@ -14,8 +14,6 @@
 ## 👨‍💻 About Me
 
 🎓 **B.Tech in Computer Science & Engineering**  
-📘 **Minor: E-Commerce Technology**  
-🏫 **Vellore Institute of Technology** | CGPA: **8.50**
 
 💻 Full-stack developer specializing in **MERN stack**  
 🔐 Strong focus on **JWT authentication, RBAC & secure APIs**  
@@ -105,23 +103,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yash-raj-singh-142b5b251/)">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:singhrajyash003@gmail.com">
