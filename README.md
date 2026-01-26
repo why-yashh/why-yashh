@@ -1,76 +1,119 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Full+Stack+Developer;Java+%7C+MERN+Stack;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+@+VIT;Full+Stack+MERN+Developer;Java+%7C+DSA+%7C+System+Design;Building+Scalable+Web+Apps+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/why-yashh">
-    <img src="https://img.shields.io/github/followers/why-yashh?label=Followers&style=flat&color=6C63FF" />
-  </a>
-  <img src="https://img.shields.io/github/stars/why-yashh?label=Stars&style=flat&color=6C63FF" />
+  <img src="https://img.shields.io/badge/Location-India-6C63FF?style=flat"/>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6C63FF?style=flat"/>
 </p>
 
 ---
 
-## 🌱 About Me
+## 👨‍💻 About Me
 
-🎓 **BTech CSE (E-Commerce Technology)** – Final Year  
-💻 Passionate about **Full Stack Development**  
-🚀 Currently focused on **Java, DSA & MERN Stack**  
-🎯 Goal: **Software Engineer at a product-based company**  
-🤝 Open to internships, collaborations & learning opportunities  
+🎓 **B.Tech in Computer Science & Engineering**  
+📘 **Minor: E-Commerce Technology**  
+🏫 **Vellore Institute of Technology** | CGPA: **8.50**
+
+💻 Full-stack developer specializing in **MERN stack**  
+🔐 Strong focus on **JWT authentication, RBAC & secure APIs**  
+📈 Interested in **scalable systems, backend optimization & cloud**  
+🎯 Career goal: **Software Engineer (Product-Based Company)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-6C63FF?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-6C63FF?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-6C63FF?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-6C63FF?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Backend
 <p>
-  <img src="https://img.shields.io/badge/React-6C63FF?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-6C63FF?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-6C63FF?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6C63FF?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-6C63FF?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🧰 Tools
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-6C63FF?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-6C63FF?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Concepts
 <p>
   <img src="https://img.shields.io/badge/Git-6C63FF?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-6C63FF?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-6C63FF?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-6C63FF?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-6C63FF?style=flat"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 ShopEZ – MERN E-Commerce Platform
-✔️ User authentication & authorization  
-✔️ Seller dashboard & admin panel  
-✔️ Product management & cart system  
-✔️ Fully responsive UI  
+### 🥗 Food Rescue Management System
+**Tech:** MongoDB, Express.js, React.js, Node.js, JWT  
+**Timeline:** Nov 2025 – Jan 2026
 
-🔗 **Repo:** https://github.com/why-yashh/ShopEZ  
+✔️ Built a full-stack platform to manage **food donation & rescue workflows**  
+✔️ Implemented **JWT authentication + role-based access control**  
+✔️ Designed MongoDB schemas for listings, approvals & status tracking  
+✔️ Created **role-specific dashboards** for donors & administrators  
+✔️ Modular backend & reusable frontend components for scalability  
+
+---
+
+### 🛒 ShopEZ – E-Commerce Platform
+**Tech:** MERN Stack, Redux Toolkit  
+**Timeline:** Jan 2025 – Apr 2025
+
+✔️ Developed a full-scale e-commerce system with RESTful APIs  
+✔️ Implemented **secure authentication & RBAC**  
+✔️ Optimized MongoDB queries & indexes → **35% faster response time**  
+✔️ Focused on performance, security & maintainable architecture  
+
+---
+
+### 🔗 Supply Chain Management (Blockchain)
+**Tech:** Blockchain, Smart Contracts  
+**Timeline:** Aug 2024 – Sep 2024
+
+✔️ Built a blockchain-based supply-chain tracker  
+✔️ Smart contracts for **product provenance & state validation**  
+✔️ Achieved **40% reduction in fraud & reconciliation errors**  
+✔️ Enabled tamper-proof and auditable transaction trails  
+
+---
+
+## 🏅 Certifications
+
+🏆 Oracle Cloud Infrastructure – Data Science Professional  
+🏆 Oracle Cloud Infrastructure – Foundations Associate  
+🏆 Full Stack Developer (MERN) – Smart Bridge  
+🏆 MongoDB Atlas & Node.js  
+🏆 Mastering DSA in Java – FacePrep  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=why-yashh&show_icons=true&theme=default&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=why-yashh&theme=default&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-yashh&layout=compact&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -78,10 +121,10 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:singhrajyash003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C63FF?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -89,7 +132,7 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories  
+  ⭐ If you find my work interesting, feel free to star my repositories  
   <br/>
-  🚀 Let’s build something amazing together!
+  🚀 Always open to learning, building, and collaborating
 </p>
