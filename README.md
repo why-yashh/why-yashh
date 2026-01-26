@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+@+VIT;Full+Stack+MERN+Developer;Java+%7C+DSA+%7C+System+Design;Building+Scalable+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Full+Stack+MERN+Developer;Java+%7C+DSA+%7C+System+Design;Building+Scalable+Web+Apps+🚀" />
 </p>
 
 <p align="center">
