@@ -106,7 +106,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yash-raj-singh-142b5b251/)">
+  <a href="[https://www.linkedin.com/in/yash-raj-singh-142b5b251]">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:singhrajyash003@gmail.com">
