@@ -106,13 +106,20 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/yash-raj-singh-142b5b251]">
+  <a href="https://www.linkedin.com/in/yash-raj-singh-142b5b251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/why-yashh/Resume/blob/main/Yash_Raj_Singh.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-6C63FF?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/why-yashh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-6C63FF?style=flat&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:singhrajyash003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C63FF?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
