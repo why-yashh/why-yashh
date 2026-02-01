@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;Full+Stack+MERN+Developer;Java+%7C+DSA+%7C+System+Design;Building+Scalable+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=650&lines=BTech+CSE+Student;Full+Stack+MERN+Developer;Java+%7C+DSA+%7C+Backend+Engineering;Building+Scalable+Web+Applications+🚀" />
 </p>
 
 <p align="center">
@@ -11,85 +11,102 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-🎓 **B.Tech in Computer Science & Engineering**  
+👨‍💻 **I'm Yash Raj Singh**, a Computer Science undergraduate and **Full Stack MERN Developer** with a strong inclination toward **backend engineering and scalable system design**.
 
-💻 Full-stack developer specializing in **MERN stack**  
-🔐 Strong focus on **JWT authentication, RBAC & secure APIs**  
-📈 Interested in **scalable systems, backend optimization & cloud**  
-🎯 Career goal: **Software Engineer (Product-Based Company)**
+I enjoy building **secure, high-performance web applications**, focusing on **clean architecture, RESTful APIs, authentication, and database optimization**. I actively strengthen my foundations in **Java, DSA, and system design** to prepare for **product-based software engineering roles**.
+
+🎯 **Career Goal:** Software Engineer at a product-based company
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Java-6C63FF?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-6C63FF?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-6C63FF?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-6C63FF?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🌐 Web & Backend
 <p>
-  <img src="https://img.shields.io/badge/React.js-6C63FF?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-6C63FF?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6C63FF?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-6C63FF?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-6C63FF?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6C63FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-6C63FF?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-6C63FF?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-6C63FF?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Concepts
 <p>
-  <img src="https://img.shields.io/badge/Git-6C63FF?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-6C63FF?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-6C63FF?style=flat"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat"/>
+  <img src="https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-6C63FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🥗 Food Rescue Management System
-**Tech:** MongoDB, Express.js, React.js, Node.js, JWT  
-**Timeline:** Nov 2025 – Jan 2026
+<p>
+  <img src="https://img.shields.io/badge/MERN-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-6C63FF?style=for-the-badge"/>
+</p>
 
-✔️ Built a full-stack platform to manage **food donation & rescue workflows**  
-✔️ Implemented **JWT authentication + role-based access control**  
-✔️ Designed MongoDB schemas for listings, approvals & status tracking  
-✔️ Created **role-specific dashboards** for donors & administrators  
-✔️ Modular backend & reusable frontend components for scalability  
+> Full-stack platform for managing food donations with secure role-based access and scalable backend architecture.
+
+🔗 **Repo:** https://github.com/why-yashh/Food-Rescue-System  
 
 ---
 
 ### 🛒 ShopEZ – E-Commerce Platform
-**Tech:** MERN Stack, Redux Toolkit  
-**Timeline:** Jan 2025 – Apr 2025
+<p>
+  <img src="https://img.shields.io/badge/MERN-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redux-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-6C63FF?style=for-the-badge"/>
+</p>
 
-✔️ Developed a full-scale e-commerce system with RESTful APIs  
-✔️ Implemented **secure authentication & RBAC**  
-✔️ Optimized MongoDB queries & indexes → **35% faster response time**  
-✔️ Focused on performance, security & maintainable architecture  
+> Scalable e-commerce system with optimized APIs, secure authentication, and modular design.
+
+🔗 **Repo:** https://github.com/why-yashh/ShopEZ  
 
 ---
 
 ### 🔗 Supply Chain Management (Blockchain)
-**Tech:** Blockchain, Smart Contracts  
-**Timeline:** Aug 2024 – Sep 2024
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-6C63FF?style=for-the-badge"/>
+</p>
 
-✔️ Built a blockchain-based supply-chain tracker  
-✔️ Smart contracts for **product provenance & state validation**  
-✔️ Achieved **40% reduction in fraud & reconciliation errors**  
-✔️ Enabled tamper-proof and auditable transaction trails  
+> Blockchain-based supply chain tracker ensuring transparency and tamper-proof transactions.
+
+🔗 **Repo:** https://github.com/why-yashh/Supply-Chain-Blockchain  
+
+---
+
+### 📝 Online Quiz Application
+<p>
+  <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logic%20Building-6C63FF?style=for-the-badge"/>
+</p>
+
+> Console-based quiz application implementing OOP principles with dynamic question handling and scoring logic.
+
+🔗 **Repo:** https://github.com/why-yashh/Quiz-Application  
 
 ---
 
@@ -107,24 +124,23 @@
 
 <p>
   <a href="https://www.linkedin.com/in/yash-raj-singh-142b5b251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/why-yashh/Resume/blob/main/Yash_Raj_Singh.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-6C63FF?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/why-yashh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-6C63FF?style=flat&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:singhrajyash003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C63FF?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to star my repositories  
+  ⭐ If you like my work, consider starring the repositories  
   <br/>
-  🚀 Always open to learning, building, and collaborating
+  🚀 Always learning, building, and improving
 </p>
